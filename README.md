@@ -2,7 +2,7 @@
 
 An intelligent environmental monitoring system that uses computer vision and machine learning to detect vehicular emission violations in real-time, contributing to urban air quality improvement and environmental compliance.
 
-## 🌍 Project Overview
+##  Project Overview
 
 EcoTrack combines AI-powered computer vision, environmental data analysis, and smart city integration to create a comprehensive solution for tackling urban air pollution caused by vehicle emissions. The system processes live traffic footage to identify emission violations and automatically notifies relevant authorities and vehicle owners.
 
@@ -15,7 +15,7 @@ EcoTrack combines AI-powered computer vision, environmental data analysis, and s
 - **Automated Compliance**: Integration with vehicle registration databases and notification systems
 - **Environmental Impact Tracking**: Measurable pollution reduction and air quality improvement metrics
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Backend
 - **Django 5.2.6** - Web framework
@@ -40,7 +40,7 @@ EcoTrack combines AI-powered computer vision, environmental data analysis, and s
 - **Air Quality APIs** - Environmental monitoring
 - **SMS/Email Services** - Notification system
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```
 Traffic Cameras → AI Detection Pipeline → Environmental Analysis → Database Storage
@@ -72,7 +72,7 @@ Public Portal ← Environmental Impact Tracking ← Air Quality Correlation
    - Vehicle owner notifications
    - Multi-channel communication
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -123,7 +123,7 @@ Public Portal ← Environmental Impact Tracking ← Air Quality Correlation
 
 Visit `http://127.0.0.1:8080` to access the application.
 
-## 📊 Database Schema
+##  Database Schema
 
 ### Core Models
 
@@ -134,7 +134,7 @@ Visit `http://127.0.0.1:8080` to access the application.
 - **WeatherData**: Environmental conditions for context-aware detection
 - **AirQualityData**: Pollution measurements and trend analysis
 
-## 🔧 AI Model Integration
+##  AI Model Integration
 
 ### Detection Pipeline
 
@@ -153,7 +153,7 @@ Visit `http://127.0.0.1:8080` to access the application.
 # 3. Real-time inference with environmental context
 ```
 
-## 🌱 Environmental Impact
+##  Environmental Impact
 
 ### Measurable Outcomes
 
@@ -169,7 +169,7 @@ Visit `http://127.0.0.1:8080` to access the application.
 - Traffic optimization for emission reduction
 - Community engagement through transparency
 
-## 📱 API Endpoints
+##  API Endpoints
 
 ### Detection API
 - `POST /api/detect/` - Upload image for emission analysis
@@ -185,7 +185,7 @@ Visit `http://127.0.0.1:8080` to access the application.
 - `GET /api/vehicles/` - Vehicle database access
 - `POST /api/vehicles/register/` - New vehicle registration
 
-## 🔐 Security & Privacy
+##  Security & Privacy
 
 - GDPR-compliant data handling
 - Vehicle owner data anonymization
@@ -193,7 +193,7 @@ Visit `http://127.0.0.1:8080` to access the application.
 - Audit trails for all detections
 - Environmental data aggregation without personal identification
 
-## 🚀 Deployment & Scaling
+##  Deployment & Scaling
 
 ### Production Considerations
 
@@ -210,7 +210,7 @@ The system is designed to handle:
 - City-wide environmental monitoring
 - Multi-agency data sharing and coordination
 
-## 📈 Development Roadmap
+##  Development Roadmap
 
 ### Phase 1 (Current)
 - [x] Django project setup and database models
@@ -230,7 +230,7 @@ The system is designed to handle:
 - [ ] Smart city API integrations
 - [ ] Production deployment
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/environmental-enhancement`)
@@ -238,18 +238,18 @@ The system is designed to handle:
 4. Push to branch (`git push origin feature/environmental-enhancement`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact
+##  Contact
 
 **Vijay Kumar**
 - GitHub: [@puttavijaykumar](https://github.com/puttavijaykumar)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile]
+- Email: vijaykumarputta.com
+- LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/vijaykumar-putta/)]
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Environmental agencies for compliance standards
 - Open source computer vision community
